@@ -4,7 +4,7 @@ To make the original code work well, I revised the source code at some points:
 
 - requirements.txt: in this file, i replaced library versions to well-worked versions on my running time.
 - images folder: i supplement this folder containing test images for inference.
-- Change command to run Flask server from "**FLASK_ENV=development FLASK_APP=app.py flask run**" to "**python app.py**"
+- Change command to run Flask server from "`FLASK_ENV=development FLASK_APP=app.py flask run`" to "`python app.py`"
 
 # PyTorch Flask API
 
